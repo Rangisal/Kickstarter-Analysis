@@ -50,16 +50,16 @@ As described above the analysis is mainly based on,
 
 ## Results
 
-- **What are two conclusions you can draw about the Outcomes based on Launch Date?**
+ **What are two conclusions you can draw about the Outcomes based on Launch Date?**
 - The months of May and June has higher outcomes of successful with higher rate of success.
 - It will be a good deciding factor to launch a campaign in those months.
 
-- **What can you conclude about the Outcomes based on Goals?**
+ **What can you conclude about the Outcomes based on Goals?**
 - Higher failure due to higher goal amount 
 
-- **What are some limitations of this dataset?**
+ **What are some limitations of this dataset?**
 - There should be more deciding factors to analyse before make any final decision on the campaign. The success rate is not solely depends on the goal or the launch date. 
 
-- **What are some other possible tables and/or graphs that we could create?**
+ **What are some other possible tables and/or graphs that we could create?**
 - Demographic analysis of the past campaigns on theater and see the other opportunities as Louis was interested in other areas in theater in different countries. 
 - Box plot of selected demographic based on subcategories of theater. 
