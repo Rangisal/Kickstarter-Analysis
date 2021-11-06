@@ -1,5 +1,5 @@
 # Kickstarter-Analysis
-Performing analysis on kickstarter data
+**Performing Analysis on kickstarter data**
 ## Overview of Project
 Analysing crowdfunding campaign data to determine possible outcomes could arise based on the deciding factors of starting up a new fundraising project of louice.The projected budget is set to approximately $10,000
 The main deciding and analysing factors would be concluded upon success rate of the particular subcategory based on the launch date and goals separately.
