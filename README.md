@@ -8,8 +8,8 @@ The main deciding and analysing factors would be concluded upon success rate of 
 The purpose of the project is to compare and get to know the outcomes of different campaign in relation with campaign launch date and the funding goals of each campaign.The final analysis and conclusion will be main decidind factor of when to , how to and plan a project to be successful.  
 
 ## Analysis and Challenges
-
-
+- Analysis of outcomes based on launch date
+- Analysis of outcomes based ob Goals
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
