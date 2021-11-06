@@ -36,15 +36,26 @@ As described above the analysis is based mainly based on,
  ![image](https://user-images.githubusercontent.com/93173498/140600003-5803d221-5649-43b8-b1bb-70d08cf4b202.png)
 
 
-
 ### Challenges and Difficulties Encountered
+- It shows in the analysis according to the outcomes based on the goal there is a higher possibility to fail the campaign when the goal amount is higher.
+- The following table clearly indicates that Louise is asking more than twice the average successful goals. Both mean and median successful goal amount is lower than the       failed goal amount.
+
+  
+- 
+- Hence there should be another way to confirm the feasibility of using outcomes vs goal before make any conclusion. 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- **What are two conclusions you can draw about the Outcomes based on Launch Date?**
+- The months of May and June has has higher outcomes of successful with higher rate of success.
+- It will be a good deciding factor to launch a campaign in those months.
 
-- What can you conclude about the Outcomes based on Goals?
+- **What can you conclude about the Outcomes based on Goals?**
+- Higher failure due to higher goal amount 
 
-- What are some limitations of this dataset?
+- **What are some limitations of this dataset?**
+- There should be more deciding factors to analyse before make any final decision on the campaign. The success rate is not solely depends on the goal or the launch date. 
 
-- What are some other possible tables and/or graphs that we could create?
+- **What are some other possible tables and/or graphs that we could create?**
+- Demographic analysis of the past campaigns on theater and see the other oppertunities as Louis was interested in other areas in theater. 
+- Box plot of selected demographic based on subcategories of theater. 
