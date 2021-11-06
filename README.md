@@ -1,12 +1,13 @@
 # Kickstarter-Analysis
 **Performing Analysis on kickstarter data**
 ## Overview of Project
-Analysing crowdfunding campaign data to determine possible outcomes could arise based on the deciding factors of starting up a new fundraising project of louice.The projected budget is set to approximately $10,000
+Analysing crowdfunding campaign data to determine possible outcomes could arise based on the deciding factors of starting up a new fundraising project of Louice.The projected budget is set to approximately $10,000
 The main deciding and analysing factors would be concluded upon success rate of the particular subcategory based on the launch date and goals separately.
 As the main objective of the fundraising campaign is to fund for a new play,the final analysis is based on the subcategory play and it outcomes based on the funding goals and parent category theater and it outcomes based on the launch day.   
 
 ## Purpose
-The purpose of the project is to compare and get to know the outcomes of different campaign in relation with campaign launch date and the funding goals of each campaign.The final analysis and conclusion will be main deciding factor of when to , how to and plan the project to be successful. The data will be analysing using the following excel workbook. 
+The purpose of the project is to compare and get to know the outcomes of different campaign in relation with campaign launch date and the funding goals of each campaign.The final analysis and conclusion will be main deciding factor of when to and how to plan the project to be successful. The data will be analysing using the following excel workbook. 
+
 
 ## Analysis and Challenges
 As described above the analysis is based mainly based on,
