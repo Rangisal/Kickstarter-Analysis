@@ -11,7 +11,7 @@ The purpose of the project is to compare and get to know the outcomes of differe
 ## Analysis and Challenges
 As described above the analysis is based mainly based on,
 - Analysis of outcomes based on launch date
-- Analysis of outcomes based ob Goals
+- Analysis of outcomes based on Goals
 
 ### Analysis of Outcomes Based on Launch Date
 - Added a new column to the worksheet as "years " and extracted the year from date created column in order to determine the readable format. 
@@ -20,7 +20,8 @@ As described above the analysis is based mainly based on,
 - Filtered the theater from the parent category to show the success factor in each month.
 - Pivot chart were created sorting the outcomes in descending order. 
 - The chart shows as follows and noticing the higher successful rate in May and June.
-- 
+- <img width="360" alt="Theater outcomes by lauch date" src="https://user-images.githubusercontent.com/93173498/140599508-cbde1e49-81eb-48a5-b460-530d03c7886a.png">
+
 - 
 
 ### Analysis of Outcomes Based on Goals
