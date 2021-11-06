@@ -40,8 +40,9 @@ As described above the analysis is based mainly based on,
 - It shows in the analysis according to the outcomes based on the goal there is a higher possibility to fail the campaign when the goal amount is higher.
 - The following table clearly indicates that Louise is asking more than twice the average successful goals. Both mean and median successful goal amount is lower than the       failed goal amount.
 
+![image](https://user-images.githubusercontent.com/93173498/140601301-8be8cd78-1c2e-4387-9813-631a0b681cdf.png)
+
   
-- 
 - Hence there should be another way to confirm the feasibility of using outcomes vs goal before make any conclusion. 
 
 ## Results
