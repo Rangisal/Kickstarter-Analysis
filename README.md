@@ -21,7 +21,7 @@ As described above the analysis is mainly based on,
 - Added a new column to the worksheet as **years** and extracted the year from date created column in order to determine the readable format. 
 - Filtered a pivot table based on **parent category and years** with all the outcomes except live to analyse the each outcomes. 
 - Grouped row labels according to the months of the year to analyse the success factor of all categories in each month. 
-- Filtered the **theater** from the parent category to show the success factor in each month and this will be shown in the **theater outcomes by launch date** sheet in the work     book.
+- Filtered the **theater** from the parent category to show the success factor in each month and this will be shown in the **theater outcomes by launch date** sheet in the     work book.
 - Pivot chart were created sorting the outcomes in descending order. 
 - The chart shows as follows and noticing the higher successful rate in May and June.
   
