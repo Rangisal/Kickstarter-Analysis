@@ -14,17 +14,23 @@ As described above the analysis is based mainly based on,
 - Analysis of outcomes based on Goals
 
 ### Analysis of Outcomes Based on Launch Date
+
 - Added a new column to the worksheet as "years " and extracted the year from date created column in order to determine the readable format. 
 - Fitered a pivot table based on parent category and years with all the outcomes except live to analyse the each outcomes. 
 - Grouped row lables according to the months of the year to analyse the success factor of all categories in each month. 
-- Filtered the theater from the parent category to show the success factor in each month.
+- Filtered the theater from the parent category to show the success factor in each month and this will be shown in the theater outcomes by launch date sheet in the work book.
 - Pivot chart were created sorting the outcomes in descending order. 
 - The chart shows as follows and noticing the higher successful rate in May and June.
-- <img width="360" alt="Theater outcomes by lauch date" src="https://user-images.githubusercontent.com/93173498/140599508-cbde1e49-81eb-48a5-b460-530d03c7886a.png">
-
-- 
+  <img width="360" alt="Theater outcomes by lauch date" src="https://user-images.githubusercontent.com/93173498/140599508-cbde1e49-81eb-48a5-b460-530d03c7886a.png">
 
 ### Analysis of Outcomes Based on Goals
+- Used the countifs() to visualize percentage of successful, failed and canceled plays based on funding goal amounts.
+- Collected the outcomes and goal data for the subcategory "play " 
+- This can be found in the sheet "outcomes based on goals"
+- In the goal column created dollar amount as ranges as the projets can be grouped based on their goal amount. 
+- Calculated the total projects and percentage of each outcomes to visualize the relationship between the goal amount ranges and the percentage of each outcomes. 
+- This following line chart shows the outcome perfectly for the above analysis.
+-  
 
 ### Challenges and Difficulties Encountered
 
