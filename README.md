@@ -22,6 +22,8 @@ As described above the analysis is based mainly based on,
 - Pivot chart were created sorting the outcomes in descending order. 
 - The chart shows as follows and noticing the higher successful rate in May and June.
   
+  ![image](https://user-images.githubusercontent.com/93173498/140600027-5974c046-6487-4844-b0b1-284895362431.png)
+
 
 ### Analysis of Outcomes Based on Goals
 - Used the countifs() to visualize percentage of successful, failed and canceled plays based on funding goal amounts.
