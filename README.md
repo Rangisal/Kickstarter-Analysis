@@ -11,6 +11,7 @@ The purpose of the project is to compare and get to know the outcomes of differe
 
 https://github.com/Rangisal/Kickstarter-Analysis/blob/main/Kickstarter_Challenge.xlsx
 
+
 ## Analysis and Challenges
 As described above the analysis is mainly based on,
 - Analysis of outcomes based on launch date
